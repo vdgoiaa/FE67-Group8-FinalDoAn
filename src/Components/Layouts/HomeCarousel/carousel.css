@@ -1,0 +1,12 @@
+.carousel{
+    height: 700px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    object-fit: cover;
+    object-position: center;
+}
+.slick_dots_bottom{
+    margin: 0;
+    padding: 0;
+}

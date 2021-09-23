@@ -1,0 +1,4 @@
+.signup{
+    @apply mr-5 p-1 text-white transition duration-150 ease-in-out hover:text-white text-2xl transform hover:-translate-y-0.5 hover:scale-110  bg-red-500 rounded-lg; 
+    
+}
